@@ -32,6 +32,8 @@ WellnessConnect provides a user-friendly interface for both students and admins.
 1. Clone the repository:
     ```bash
     git clone https://github.com/DantuluriMahima/Pandas_SleeplessCodingSaga2.0.git
+    cd Pandas_SleeplessCodingSaga2.0
+    npm install
     ```
 
 2. Starting frontend:
