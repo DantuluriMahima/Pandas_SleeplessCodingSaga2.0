@@ -6,7 +6,6 @@ const medicineSchema = new mongoose.Schema({
   strength: { type: String, required: true },
   instructions: { type: String, required: true },
   category: { type: String, required: true },
-  department: { type: String, required: true },
 });
 
 const Medicine = mongoose.model('Medicine', medicineSchema, 'medicine');
