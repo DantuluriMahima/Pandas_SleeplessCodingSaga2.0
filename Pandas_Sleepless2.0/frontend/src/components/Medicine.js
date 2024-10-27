@@ -59,10 +59,7 @@ const Medicinedb = () => {
       try {
         console.log('New Medicine data:', newMedicine);
         
-        const response2 = await axios.get(`http://localhost:5000/api/medicinedb/search?category=id&keyword=${newMedicine.id}`);
-        console.log("Search response:", response2);
-    
-        if (!response2.data || response2.data.length === 0) {
+       
           const response = await axios.post('http://localhost:5000/api/medicinedb', newMedicine);
           console.log('Medicine added:', response.data);
     
@@ -76,9 +73,7 @@ const Medicinedb = () => {
     
           fetchMedicines();
           window.location.reload(); 
-        } else {        
-          throw new Error("Roll Number exists in the database.");
-        }
+       
       } catch (error) {
         console.error('Error adding entry:', error);
         if (error.response && error.response.data) {
