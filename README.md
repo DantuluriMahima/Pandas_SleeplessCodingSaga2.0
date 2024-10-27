@@ -9,6 +9,7 @@ A web application designed to streamline healthcare services within an instituti
 - [Usage](#usage)
 - [License](#license)
 - [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 ## Project Description
 WellnessConnect provides a user-friendly interface for both students and admins. Students can book appointments, view doctor availability, and manage their medications. Admins can oversee appointments, manage inventory, and ensure the smooth operation of healthcare services. The application aims to enhance the overall wellness experience for students by making healthcare services more accessible and organized.
@@ -85,6 +86,13 @@ WellnessConnect provides a user-friendly interface for both students and admins.
 ![Medicine Database](medicine.PNG)
 ![Appointment](appointment.PNG)
 ![User](user.PNG)
+
+## Acknowledgments
+
+This project was developed with valuable inspiration and resources from the following:
+
+- **Home Page**: The design was inspired by [Issaaf Kattan's React Landing Page Template](https://github.com/issaafalkattan/React-Landing-Page-Template).
+- **Footer and Logo**: Styled to reflect the branding of IIT Dharwad's website.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
