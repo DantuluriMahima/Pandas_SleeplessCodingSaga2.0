@@ -85,7 +85,4 @@ WellnessConnect provides a user-friendly interface for both students and admins.
 ![User](user.PNG)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For questions or feedback, please reach out to us at [your-email@example.com].
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
