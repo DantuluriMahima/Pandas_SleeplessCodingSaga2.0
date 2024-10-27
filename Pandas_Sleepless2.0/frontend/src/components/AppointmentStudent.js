@@ -171,7 +171,8 @@ const AppointmentStudent = () => {
                 {trafficLevel === 'Medium' && <span style={{ color: 'orange' }}>Medium Traffic</span>}
                 {trafficLevel === 'Low' && <span style={{ color: 'green' }}>Low Traffic</span>}
             </div>
-            <table border="1" style={{ width: '100%', textAlign: 'left' }}>
+            <table border="1" style={{ width: '100%', textAlign: 'left', color:'black', background:'white'
+             }}>
                 <thead>
                     <tr>
                         <th>Email</th>
