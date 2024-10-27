@@ -73,7 +73,7 @@ WellnessConnect provides a user-friendly interface for both students and admins.
 ## Usage
 - **Home Page:** The landing page where users can access all features of the application.
 - **Login Page:** Allows users to log in as either students or admins.
-    - **Student Login:** Use roll number `220010034` and password `mongoose`.
+    - **Student Login:** Register using Roll No. and create your password.
     - **Admin Login:** Use roll number `1` and password `1`.
 - **Student Dashboard:** Enables students to book appointments, track medications, and view available resources.
 - **Admin Dashboard:** Allows admins to manage appointments, track inventory, and oversee the wellness services.
