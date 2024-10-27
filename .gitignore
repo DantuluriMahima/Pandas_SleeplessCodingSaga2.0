@@ -1,0 +1,5 @@
+# Ignore everything
+*
+# Allow only specific-folder
+!Pandas_Sleepless2.0/
+!.gitignore
