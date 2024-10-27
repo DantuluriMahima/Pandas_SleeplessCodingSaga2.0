@@ -289,7 +289,7 @@ const Appointment = () => {
 </div>
 
 
-            <table border="1" style={{ width: '100%', textAlign: 'left' }}>
+            <table border="1" style={{ width: '100%', textAlign: 'left',color:'black',backgroundColor:'white' }}>
                 <thead>
                     <tr>
                         <th>Email</th>
