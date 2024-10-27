@@ -352,7 +352,7 @@ const fetchData = async () => {
             <div class="container">
                 
                 <h2 style={{color: 'white'}}>Cancel Medicine</h2>
-                <table className="table table-responsive table-bordered table-hover">
+                <table className="table table-responsive table-bordered table-hover" style= {{color: 'black'}}>
                     <thead>
                         <tr>
                             <th>Patient Name</th>
@@ -410,7 +410,7 @@ const fetchData = async () => {
             </div>
         
             <div className="table-container">
-                <table>
+                <table style={{color:'black', background:'white'}}>
                     <thead>
                         <tr>
                             <th>SI No</th>
