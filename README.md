@@ -80,9 +80,9 @@ WellnessConnect provides a user-friendly interface for both students and admins.
 
 ### Screenshots
 ![Home Page](home.PNG)
-![Login Page](/path/to/login.png)
-![Student Dashboard](/path/to/student-dashboard.png)
-![Admin Dashboard](/path/to/admin-dashboard.png)
+![Medicine Database](medicine.PNG)
+![Appointment](appointment.PNG)
+![User](user.PNG)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
