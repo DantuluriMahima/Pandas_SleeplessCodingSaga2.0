@@ -79,7 +79,7 @@ WellnessConnect provides a user-friendly interface for both students and admins.
 - **Admin Dashboard:** Allows admins to manage appointments, track inventory, and oversee the wellness services.
 
 ### Screenshots
-![Home Page](/path/to/home.png)
+![Home Page](home.png)
 ![Login Page](/path/to/login.png)
 ![Student Dashboard](/path/to/student-dashboard.png)
 ![Admin Dashboard](/path/to/admin-dashboard.png)
