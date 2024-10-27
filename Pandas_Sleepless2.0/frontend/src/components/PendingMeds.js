@@ -131,7 +131,7 @@ const updatePatientInDatabase = async (patientId, updatedPatient) => {
         console.error('Error adding entry:', error);
         if (error.response && error.response.data) {
           // Display backend error message if available
-          alert(`Error: ${error.response.data.message}`);
+          alert(`Error: invalid inputs`);
         } else {
           alert('Error adding entry.');
         }
